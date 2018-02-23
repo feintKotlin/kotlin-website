@@ -1,0 +1,28 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://feint:feint123@${feintkotlin.host}:8761/eureka
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${server.port}
+    ip-address: ${feintkotlin.ip}
+server:
+  port: 8691
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/feintkotlin?characterEncoding=utf8
+    username: root
+    password: ${feintkotlin.database.password}
+  application:
+      name: page-static-manager
+#feintkotlin:
+#  host: 39.108.124.125
+#  database:
+#    password: feint123
+
+feintkotlin:
+  host: localhost
+  database:
+    password:

@@ -1,0 +1,22 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://user:password@${feintkotlin.host}:${server.port}/eureka
+security:
+  user:
+    password: feint123
+    name: feint
+  basic:
+    enabled: true
+server:
+  port: 80
+
+#feintkotlin:
+#  host: 39.108.124.125
+#  database:
+#    password: feint123
+
+feintkotlin:
+  host: localhost
+  database:
+    password:

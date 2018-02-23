@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ariticle_manager" />
+        <module name="article_info_manager" />
+        <module name="email_manager" />
+        <module name="feintkotlin_server" />
+        <module name="feintkotlin_website_beta" />
+        <module name="file_manager" />
+        <module name="page_static_manager" />
+        <module name="user_manager" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ariticle_manager" target="1.8" />
+      <module name="article_info_manager" target="1.8" />
+      <module name="email_manager" target="1.8" />
+      <module name="feintkotlin_server" target="1.8" />
+      <module name="feintkotlin_website_beta" target="1.8" />
+      <module name="file_manager" target="1.8" />
+      <module name="page_static_manager" target="1.8" />
+      <module name="user_manager" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

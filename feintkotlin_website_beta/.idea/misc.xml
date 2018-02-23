@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/user_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/feintkotlin_server/pom.xml" />
+        <option value="$PROJECT_DIR$/email_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/ariticle_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/file_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/article_info_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/page_static_manager/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

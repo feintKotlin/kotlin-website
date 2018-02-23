@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ariticle_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/article_info_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/email_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feintkotlin_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/file_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/page_static_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user_manager" charset="UTF-8" />
+  </component>
+</project>
